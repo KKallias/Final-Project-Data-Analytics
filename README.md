@@ -1,17 +1,37 @@
-📊 Final Project: Analyzing the Data Analyst & Data Scientist Job Market
+# Data & Analytics Job Market Analysis
 
-🔍 Overview: This project explores the job market trends for Data Analysts & Data Scientists, focusing on salaries, job demand, and hiring trends—both globally and in Germany.
+An exploratory analysis of the job market for Data Analysts and Data Scientists, with a focus on Germany and broader international trends.
 
-📌 Key Insights:
+## Project overview
 
-Predicted salary ranges for entry, mid, and senior-level positions. Job market trends across major German cities. Hiring trends influenced by big corporations. Growth in demand and salary increases from 3% to 7%.
+The project examines:
 
-🛠 Tech Stack Used:
+- Salary ranges across entry, mid, and senior levels
+- Job demand in major German cities
+- Hiring patterns associated with large employers
+- Changes in demand and advertised salaries over time
 
-Python (Data Scraping, Cleaning, Analysis) SQL (Database Querying) Google BigQuery (Data Processing) Looker Studio (Data Visualization)
+## Workflow
 
-📈 Findings:
+1. Collected and prepared job-market data
+2. Cleaned and structured the data for analysis
+3. Queried and processed the datasets
+4. Built visualisations to communicate the findings
 
-Demand for Data Analysts & Scientists continues to grow. Salaries are increasing steadily. Major cities and big corporations drive the hiring trends.
+## Tools
 
-🚀 Conclusion: The Data Analytics job market presents strong career opportunities with rising demand and salaries.
+- Python
+- SQL
+- Google BigQuery
+- Looker Studio
+
+## Key observations
+
+- Demand for data and analytics professionals remains strong
+- Major cities account for a significant share of available roles
+- Large organisations have a visible influence on hiring patterns
+- The analysis indicated salary growth in the range of 3% to 7%
+
+## Purpose
+
+This project was created to practise an end-to-end analytics workflow: from collecting and cleaning data to producing clear, decision-focused insights.
